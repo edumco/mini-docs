@@ -3,7 +3,7 @@ Examples and Best Practicies to write really minimal documentation that WILL BE 
 
 ## Why
 
-1. The absence of a good documentation slows down and even blocks professionals from doing their job
+1. The absence of a good documentation slows down and even blocks professionals from doing their job.
 2. The turn-over¹ on teams can lead to loose critical informations. 
 3. Writing documentation is hard and we need some guide into writing small, quick and good documents to keep our knowledge safe and usefull.
 
@@ -24,6 +24,13 @@ Examples and Best Practicies to write really minimal documentation that WILL BE 
 **While you do some work!** Get some notepad and keep notes during the process. It keeps the critical info at hand and helps you to select what you should document.
 
 ## How to write them?
+
+Use simple files like docx or markdown - This will make your docs easy to edit and easy to share.
+
+Use the default text appareance on your editor - Many text editors can show in diferent colours and sizes so you dont need to worry about it.
+
+Use text hirearchy.
+
 
 ## References
 
