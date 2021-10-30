@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Single starting point 🏠"
+title:  "Single starting point"
 ---
 
 # Single starting point 🏠
