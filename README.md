@@ -45,6 +45,16 @@ Examples and Best Practicies to write really minimal documentation that **_will 
 
 10. Make your documents accessible to your users.
 
+## More tips?
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 ## References
 
 - Attention Span - [en.wikipedia.org/wiki/Attention_span](https://en.wikipedia.org/wiki/Attention_span)
