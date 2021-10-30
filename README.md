@@ -23,27 +23,27 @@ Examples and Best Practicies to write really minimal documentation that **_will 
 
 **While you do some work!** Get some notepad and keep notes during the process. It keeps the critical info at hand and helps you to select what you should document.
 
-## How to write them? (The 10 commandments for good documentation)
+## How to write them?
 
 1. You should have a single point of start.
 
-2. You should not document or copy things that can be consulted elsewhere.
+2. You should not add or copy information that can be found in other tools.
 
 3. You should have a clear hirearchical structure of documents.
 
 4. You should use simple files.
 
-5. You should use the default text appareance on your editor.
+5. You should use simple text formating to publish information.
 
 6. You should use text hirearchy with: Title, sections, subsections and lists.
 
-7. You should interconect your documents with references to related contents.
+7. You should add references to related contents.
 
-8. Whenever a document gets big you should break it in smaller ones.
+8. Do not let a document increase in size, make it in small pieces.
 
 9. You should have a sumary listing all your sources of knowledge.
 
-10. Put your documents closer to the user
+10. Make your documents accessible to your users.
 
 ## References
 
