@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Single starting point"
-permalink: /2021/10/30/single-starting-point.html
+date: 2021-10-30 12:00:00 -0000
 ---
 
 # Single starting point 🏠
