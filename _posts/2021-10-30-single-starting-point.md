@@ -1,3 +1,7 @@
+---
+layout: post
+title:  "Single starting point 🏠"
+---
 
 # Single starting point 🏠
 
