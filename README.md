@@ -1,4 +1,4 @@
-# The minimal document
+# Minimal documents
 Examples and Best Practicies to write really minimal documentation that **_will be used_** everyday on your project.
 
 ## Why
