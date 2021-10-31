@@ -50,7 +50,7 @@ Examples and Best Practicies to write really minimal documentation that **_will 
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="https://edumco.github.io/minimal-docs/{{ post.url }}">{{ post.title }}</a>
+      <a href="https://edumco.github.io/minimal-docs/{{ post.url }}">{{ post.title }} ({{ post.url }})</a>
     </li>
   {% endfor %}
 </ul>
