@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Single starting point"
-date: 2021-10-30 12:00:00 -0000
----
-
 # Single starting point 🏠
 
 Sometimes is hard to have a single source of information and this can create lots of confusion during searching for useful information. 
