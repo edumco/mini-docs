@@ -47,13 +47,7 @@ Examples and Best Practicies to write really minimal documentation that **_will 
 
 ## More tips?
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="https://edumco.github.io/minimal-docs/{{ post.url }}">{{ post.title }} ({{ post.url }})</a>
-    </li>
-  {% endfor %}
-</ul>
+[Single starting point - (/single-starting-point) ](https://edumco.github.io/minimal-docs/single-starting-point/)
 
 ## References
 
