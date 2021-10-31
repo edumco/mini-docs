@@ -1,6 +1,3 @@
-# Minimal documents
-Examples and Best Practicies to write really minimal documentation that **_will be used_** everyday on your project.
-
 ## Why
 
 1. The absence of a good documentation slows down and even blocks professionals from doing their jobs.
