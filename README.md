@@ -44,7 +44,7 @@
 
 ## More tips?
 
-[Single starting point - (/single-starting-point) ](https://edumco.github.io/minimal-docs/single-starting-point/)
+[Single starting point - single-starting-point/](https://edumco.github.io/minimal-docs/single-starting-point/)
 
 ## References
 
@@ -57,6 +57,7 @@
 - Socratic Questioning - [unl.edu/gradstudies/connections/socratic-questioning](https://www.unl.edu/gradstudies/connections/socratic-questioning)
 
 - Writing the first draft of your science paper - [elsevier.com/connect/writing-a-science-paper-some-dos-and-donts](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts)
+
 - Paper Sizes and Formats Explained - [swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
 
 ## Footnotes
