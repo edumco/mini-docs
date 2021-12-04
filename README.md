@@ -1,8 +1,8 @@
 ## Why
 
 1. The absence of a good documentation slows down and even blocks professionals from doing their jobs.
-2. The turn-over¹ on teams can lead to loose critical informations. 
-3. Writing documentation is hard and we need some guide into writing small, quick and good documents to keep our knowledge safe and usefull.
+2. The _turnover_ ¹ on teams can lead to loose critical informations. 
+3. Writing docs is hard and we need some guide to keep our knowledge safe and usefull.
 
 ## Who needs to document?
 
