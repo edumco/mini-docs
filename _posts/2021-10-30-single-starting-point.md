@@ -8,7 +8,7 @@ Sometimes is hard to have a single source of information and this can create lot
 
 To mitigate this problem we should create a page or document that guides the reader throughout the multiple sources of knowledge.
 
-## Pages
+## Creating a Web Page
 
 No matter if you use a shared folder, a git repo or a complete document solution you can create a simple web page to list your knkowledge resources, so let's see some examples.
 
@@ -22,21 +22,5 @@ The most used cloud based repository managers (Github, Bitbucket, Gitlab, Azure 
 
 ### Document portal 🌐
 
-Most documentation tools allows you to creating a main page where you. 
+Most documentation tools allows you to creating a main page where you can centralize all main links. 
 
-## Product Documentation
-
-One of the easyest ways to guarantee a central point is to organize documentation around products. 
-
-This technic helps to centralize docs for the the team members and to restrict clients access to operational data only.
-
-```shell
-Company documentation/
-    Development/
-        Products
-          Product 1/
-          Product 2/
-...
-```
-
-## References
