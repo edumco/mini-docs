@@ -24,3 +24,30 @@ The most used cloud based repository managers (Github, Bitbucket, Gitlab, Azure 
 
 Most documentation tools allows you to creating a main page where you can centralize all main links. 
 
+
+## Organizing the sources
+
+Now you have an entry point you have to guide your reader throughout all the information sources.
+
+
+A simple summary with a brief description per iten can give the necessary guidence. 
+
+> **Dont forget to link the itens to the respective documentation.**
+
+Ex:
+
+- Bitbucket - List of all repos 
+	- Product A - All the repos for the product A components
+	- Product B - All the repos for the product B components
+	- Shared Components - All repos shared between products
+- Confluence
+	- Onboard for new team members 
+	- Tool configuration
+	- List of all projects
+	- Support
+- Sharepoint
+	- Human Resources
+	- Marketing
+	- Design
+	- Development
+
