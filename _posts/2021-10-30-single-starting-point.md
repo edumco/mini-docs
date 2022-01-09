@@ -1,9 +1,3 @@
----
-author: 'edumco'
----
-
-# Single starting point 🏠
-
 Sometimes is hard to have a single source of information and this can create lots of confusion during searching for useful information. 
 
 To mitigate this problem we should create a page or document that guides the reader throughout the multiple sources of knowledge.
