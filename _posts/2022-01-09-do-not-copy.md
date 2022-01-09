@@ -1,9 +1,6 @@
 ---
 author: 'edumco'
 ---
-
-# Don't copy, LINK IT!
-
 Sometimes the same information is relevant in several places and we are tempted to connect the dots by copying the data around.
 
 This approach has a big failure: When you need to update the information it's hard to find all occurrencies!
