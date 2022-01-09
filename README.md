@@ -24,7 +24,7 @@
 
 ## How to write them?
 
-1. You should have a [single starting point - /single-starting-point/](https://edumco.github.io/minimal-docs/single-starting-point/)
+1. You should have a single starting point - [/single-starting-point](https://edumco.github.io/minimal-docs/single-starting-point/)
 
 2. You should not add or copy information that can be found in other tools.
 
