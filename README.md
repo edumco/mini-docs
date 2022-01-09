@@ -1,3 +1,5 @@
+# Mini Docs
+
 ## Why
 
 1. The absence of a good documentation slows down and even blocks professionals from doing their jobs.
@@ -22,7 +24,7 @@
 
 ## How to write them?
 
-1. You should have a single point of start.
+1. You should have a [single starting point - /single-starting-point/](https://edumco.github.io/minimal-docs/single-starting-point/)
 
 2. You should not add or copy information that can be found in other tools.
 
@@ -41,10 +43,6 @@
 9. You should have a sumary listing all your sources of knowledge.
 
 10. Make your documents accessible to your users.
-
-## More tips?
-
-[Single starting point - single-starting-point/](https://edumco.github.io/minimal-docs/single-starting-point/)
 
 ## References
 
