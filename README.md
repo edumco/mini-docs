@@ -26,7 +26,7 @@
 
 1. You should have a single starting point - [/single-starting-point](https://edumco.github.io/mini-docs/single-starting-point/)
 
-2. You should not add or copy information that can be found in other tools.
+2. You should not dupluplicate information. - [/do-not-copy](https://edumco.github.io/mini-docs/do-not-copy/)
 
 3. You should have a clear hirearchical structure of documents.
 
