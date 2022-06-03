@@ -44,6 +44,10 @@
 
 10. Make your documents accessible to your users.
 
+## Similar concepts
+
+Short game design document - [sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf](https://www.sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf)
+
 ## References
 
 - Attention Span - [en.wikipedia.org/wiki/Attention_span](https://en.wikipedia.org/wiki/Attention_span)
