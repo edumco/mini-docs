@@ -28,7 +28,7 @@
 
 2. Do not duplicate information. - [/do-not-copy](https://edumco.github.io/mini-docs/do-not-copy/)
 
-3. Use simple files. 
+3. Use simple files. [/simple-files](https://edumco.github.io/mini-docs/simple-files/)
 
 4. Use hirearchy (repos, files, sections...)
 
