@@ -30,4 +30,17 @@ The format provides most of the structure of a document or web page like:
 - Text emphasis (italics, bold...)
 - List decorations (dots, numeric lists)
 - Links, images and embedded video
+- Code blocks
 
+
+## References
+
+https://www.markdownguide.org/
+
+https://commonmark.org/
+
+https://docs.github.com/en/get-started/writing-on-github
+
+https://docs.gitlab.com/user/markdown/
+
+https://handbook.gitlab.com/docs/markdown-guide/
