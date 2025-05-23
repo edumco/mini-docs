@@ -3,7 +3,7 @@
 ## Why
 
 1. The absence of a good documentation slows down and even blocks professionals from doing their jobs.
-2. The _turnover_ ¹ on teams can lead to loose critical informations. 
+2. The _turnover_ on teams can lead to loose critical informations. 
 3. Writing docs is hard and we need some guide to keep our knowledge safe and usefull.
 
 ## Who needs to document?
@@ -20,31 +20,27 @@
 
 ## When to write a doc?
 
-**While you do some work!** Get some notepad and keep notes during the process. It keeps the critical info at hand and helps you to select what you should document.
+**While you do your work!** Get some notepad and keep notes during the process. It keeps the critical info at hand and helps you to select what you should document.
 
 ## How to write them?
 
-1. You should have a single starting point - [/single-starting-point](https://edumco.github.io/mini-docs/single-starting-point/)
+1. Create a single starting point - [/single-starting-point](https://edumco.github.io/mini-docs/single-starting-point/)
 
-2. You should not dupluplicate information. - [/do-not-copy](https://edumco.github.io/mini-docs/do-not-copy/)
+2. Do not duplicate information. - [/do-not-copy](https://edumco.github.io/mini-docs/do-not-copy/)
 
-3. You should have a clear hirearchical structure of documents.
+3. Create a document hierarchy.
 
-4. You should use simple files.
+4. Use simple files.
 
-5. You should use simple text formating to publish information.
+5. Use simple formating.
 
-6. You should use text hirearchy with: Title, sections, subsections and lists.
+6. Use text hirearchy (titles, sections...)
 
-7. You should add references to related contents.
+7. Break big documents in small ones.
 
-8. Do not let a document increase in size, make it in small pieces.
+8. Make your documents accessible.
 
-9. You should have a sumary listing all your sources of knowledge.
-
-10. Make your documents accessible to your users.
-
-## Similar concepts
+## Inspired by
 
 Short game design document - [sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf](https://www.sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf)
 
@@ -62,6 +58,3 @@ Short game design document - [sbgames.org/sbgames2013/proceedings/artedesign/15-
 
 - Paper Sizes and Formats Explained - [swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
 
-## Footnotes
-
-¹ Number of employees leaving a company
