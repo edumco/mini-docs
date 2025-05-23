@@ -70,3 +70,11 @@ https://help.nuclino.com/3fa9c826-use-markdown-commands
 https://slite.slite.page/p/VZddWZtRpXYz0I/Markdown-Shortcuts
 
 https://help.coda.io/en/articles/1821353-markdown-shortcuts-in-coda
+
+https://support.zendesk.com/hc/en-us/articles/4408846544922-Formatting-text-with-Markdown
+
+https://www.docsie.io/pt/markdown_editor/
+
+https://auth.monday.com/marketplace/listing/10000192/markdown
+
+https://forum.asana.com/t/introducing-markdown-shortcuts-in-asana/95525
