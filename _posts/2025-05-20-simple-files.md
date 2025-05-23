@@ -35,12 +35,20 @@ The format provides most of the structure of a document or web page like:
 
 ## References
 
+### Markdown
+
 https://www.markdownguide.org/
 
 https://commonmark.org/
+
+https://wordpress.com/support/wordpress-editor/blocks/markdown-block/
 
 https://docs.github.com/en/get-started/writing-on-github
 
 https://docs.gitlab.com/user/markdown/
 
 https://handbook.gitlab.com/docs/markdown-guide/
+
+### Static site generator
+
+https://kinsta.com/blog/static-site-generator/
