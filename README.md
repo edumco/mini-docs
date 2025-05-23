@@ -28,17 +28,11 @@
 
 2. Do not duplicate information. - [/do-not-copy](https://edumco.github.io/mini-docs/do-not-copy/)
 
-3. Create a document hierarchy.
+3. Use simple files. 
 
-4. Use simple files.
+4. Use hirearchy (repos, files, sections...)
 
-5. Use simple formating.
-
-6. Use text hirearchy (titles, sections...)
-
-7. Break big documents in small ones.
-
-8. Make your documents accessible.
+5. Break big documents in small ones.
 
 ## Inspired by
 
