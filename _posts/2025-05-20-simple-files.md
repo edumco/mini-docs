@@ -52,3 +52,11 @@ https://handbook.gitlab.com/docs/markdown-guide/
 ### Static site generator
 
 https://kinsta.com/blog/static-site-generator/
+
+### System that supports MD
+
+https://support.microsoft.com/en-us/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b
+
+https://help.zoho.com/portal/en/community/topic/tips-and-tricks-2-style-your-text-with-markdown
+
+https://help.helpjuice.com/en_US/article-editor/markdown-and-wysiwyg
