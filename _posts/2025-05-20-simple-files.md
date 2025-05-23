@@ -19,3 +19,15 @@ The support for multiple characters is more robust cause the file can have a ded
 ## .md
 
 The markdown format is a good balance between the simplicity of txt and the flexibility of html.
+
+It handles multiple characters by adopting utf-8 encoding and Unicode charset by the default.
+
+The files have a simple format and can be edited in any text editor. Lots of editors, code repository and wiki managers transform the files into web pages (parsing).
+
+The format provides most of the structure of a document or web page like:
+
+- Title Hierarchy (H1,H2...)
+- Text emphasis (italics, bold...)
+- List decorations (dots, numeric lists)
+- Links, images and embedded video
+
