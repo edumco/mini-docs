@@ -39,6 +39,8 @@ https://www.markdownguide.org/
 
 https://commonmark.org/
 
+https://wordpress.com/support/wordpress-editor/blocks/markdown-block/
+
 https://docs.github.com/en/get-started/writing-on-github
 
 https://docs.gitlab.com/user/markdown/
