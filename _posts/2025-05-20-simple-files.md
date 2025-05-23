@@ -55,8 +55,18 @@ https://kinsta.com/blog/static-site-generator/
 
 ### System that supports MD
 
+https://www.notion.com/help/writing-and-editing-basics
+
 https://support.microsoft.com/en-us/office/use-the-markdown-web-part-6d73c06d-2877-4bc9-988b-f2896016c50b
 
 https://help.zoho.com/portal/en/community/topic/tips-and-tricks-2-style-your-text-with-markdown
 
 https://help.helpjuice.com/en_US/article-editor/markdown-and-wysiwyg
+
+https://docs.document360.com/docs/markdown-editor-overview
+
+https://help.nuclino.com/3fa9c826-use-markdown-commands
+
+https://slite.slite.page/p/VZddWZtRpXYz0I/Markdown-Shortcuts
+
+https://help.coda.io/en/articles/1821353-markdown-shortcuts-in-coda
