@@ -6,11 +6,20 @@ First you have to divide the documentation between internal and external but the
 
 External documentation are an important part to the company marketing, sales and support. It should be treated with a high degree of precision and politeness otherwise it can hurt company's image.
 
-you should always use multiple teams to control and review the writing and publishing of this kind of documentation 
+### External documentation
 
-the internal documentation although very important can be less strict in terms of precision or type of language you should always follow a formal and polite manner but you can have pictures emojis and other forms of communication that help the understanding of users 
+Companies should always delegate their communication to a especialized team using multiple steps to write, review and approve before publishing.
 
-by divide the sectors inside Company you can communicate better and create a sense of connection between writers 
+To reduce possible bottlenecks teams can be allowed to publish some types of communication like technical blocks or user manual but should follow strict rules to create a consistent communication.
+
+### Internal documentation
+
+Can be less strict in terms of precision or completeness. You can use pictures, videos, emojis and other informal elements but you should always be polite and respectful to keep things professional. 
+
+Ex: Imagine a configuration manual 
+
+'''
+Li
 
 
 
