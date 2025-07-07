@@ -24,15 +24,15 @@
 
 ## How to write them?
 
-1. Create a single starting point - [/single-starting-point](https://edumco.github.io/mini-docs/single-starting-point/)
+1. [Create a single starting point](https://edumco.github.io/mini-docs/single-starting-point/)
 
-2. Do not duplicate information. - [/do-not-copy](https://edumco.github.io/mini-docs/do-not-copy/)
+2. [Do not duplicate information](https://edumco.github.io/mini-docs/do-not-copy/)
 
-3. Use simple files. [/simple-files](https://edumco.github.io/mini-docs/simple-files/)
+3. [Use simple files](https://edumco.github.io/mini-docs/simple-files/)
 
-4. Use hirearchy (repos, files, sections...)
+4. [Use hirearchy](https://edumco.github.io/mini-docs/hierarchy/)
 
-5. Break big documents in small ones.
+5. [Break big documents in small ones](https://edumco.github.io/mini-docs/break-big-documents/)
 
 ## Inspired by
 
