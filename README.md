@@ -2,25 +2,25 @@
 
 ## Why
 
-1. The absence of a good documentation slows down and even blocks professionals from doing their jobs.
-2. The _turnover_ on teams can lead to loose critical informations. 
-3. Writing docs is hard and we need some guide to keep our knowledge safe and usefull.
+1. The absence of good documentation slows down and even blocks professionals from doing their jobs.
+2. The _turnover_ on teams can lead to losing critical information. 
+3. Writing docs is hard and we need some guidance to keep our knowledge safe and useful.
 
 ## Who needs to document?
 
-**Everyone on your team!** Everyone can benefit from reading a good doc (even the author can forget something) so everyone should give it back by document critical info.
+**Everyone on your team!** Everyone can benefit from reading a good documentation (even the author can forget things) so everyone should give it back by documenting critical information.
 
-## What we should document?
+## What should we document?
 
-**Everything that's not coded!** Big decisions, planing, tools, system names, portals, IPs, enviroments, team organograms, client contacts, manual processes...
+**Everything that's not coded!** Big decisions, planning, tools, system names, portals, IPs, environments, organizational charts, client contacts, manual processes...
 
 ## Where to save them?
 
-**On cloud!** You can use some document specific solution or leverage a file solution or code repository. The colaboration is key part of good docs!
+**In the cloud!** You can use some a document-specific solution or leverage a shared-files or code repository. Collaboration is a key part of good documentation!
 
 ## When to write a doc?
 
-**While you do your work!** Get some notepad and keep notes during the process. It keeps the critical info at hand and helps you to select what you should document.
+**While you do your work!** Use a notepad and keep notes during the process. It keeps critical info at hand and helps you select what you should document.
 
 ## How to write them?
 
@@ -30,13 +30,9 @@
 
 3. [Use simple files](https://edumco.github.io/mini-docs/simple-files/)
 
-4. [Use hirearchy](https://edumco.github.io/mini-docs/hierarchy/)
+4. [Use hirerarchy](https://edumco.github.io/mini-docs/hierarchy/)
 
-5. [Break big documents in small ones](https://edumco.github.io/mini-docs/break-big-documents/)
-
-## Inspired by
-
-Short game design document - [sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf](https://www.sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf)
+5. [Break big documents into small ones](https://edumco.github.io/mini-docs/break-big-documents/)
 
 ## References
 
@@ -51,4 +47,8 @@ Short game design document - [sbgames.org/sbgames2013/proceedings/artedesign/15-
 - Writing the first draft of your science paper - [elsevier.com/connect/writing-a-science-paper-some-dos-and-donts](https://www.elsevier.com/connect/writing-a-science-paper-some-dos-and-donts)
 
 - Paper Sizes and Formats Explained - [swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained](https://www.swiftpublisher.com/useful-articles/paper-sizes-and-formats-explained)
+
+## Inspired by
+
+Short game design document - [sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf](https://www.sbgames.org/sbgames2013/proceedings/artedesign/15-dt-paper_SGDD.pdf)
 
